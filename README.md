@@ -1,2 +1,0 @@
-# Backbase
-Backbase technical challenge
